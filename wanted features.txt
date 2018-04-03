@@ -1,0 +1,10 @@
+Show entire library
+Show Requested titles
+Show most recently added titles
+Show most viewed titles
+show highest rated titles rotten tomatoes and imdb
+able to search for specific things <animated, uhd, atmos, rated r>
+able to request during request there is a catch to see if its already on the server or netflix or hulu or amazon prime video
+in search shows if its also on netflix or hulu or amzon prime video while searching it populates with image and scores and places available
+
+Everywhere is meta data, rating, service, aspect ratio, resolution, audio encoder
